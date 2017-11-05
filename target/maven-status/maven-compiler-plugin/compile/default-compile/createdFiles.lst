@@ -1,0 +1,6 @@
+controller\UserController.class
+controller\SupplierController.class
+controller\IndexController.class
+controller\ProductController.class
+controller\CategoryController.class
+controller\CartController.class
